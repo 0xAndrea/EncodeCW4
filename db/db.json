@@ -1,0 +1,603 @@
+{
+    "0": {
+        "file": {
+            "fileName": "8526.png",
+            "mimetype": "image/png",
+            "storageName": "8c61e03d04caca3e787d10bc1d695d6c",
+            "size": 34779
+        },
+        "metadata": {
+            "name": "Photo",
+            "description": "string",
+            "author": "string",
+            "timestamp": 0,
+            "type": "string",
+            "class": "string",
+            "score": 0
+        },
+        "ipfs": {
+            "path": "QmVaLVW6WUjxNbmbGnDtnkEeArR7jbKZzaPxmPvicMceWY",
+            "cid": {
+                "code": 112,
+                "version": 0,
+                "hash": {
+                    "0": 18,
+                    "1": 32,
+                    "2": 107,
+                    "3": 131,
+                    "4": 87,
+                    "5": 103,
+                    "6": 234,
+                    "7": 228,
+                    "8": 99,
+                    "9": 119,
+                    "10": 124,
+                    "11": 114,
+                    "12": 92,
+                    "13": 189,
+                    "14": 249,
+                    "15": 183,
+                    "16": 167,
+                    "17": 42,
+                    "18": 210,
+                    "19": 151,
+                    "20": 31,
+                    "21": 234,
+                    "22": 215,
+                    "23": 183,
+                    "24": 56,
+                    "25": 55,
+                    "26": 159,
+                    "27": 75,
+                    "28": 220,
+                    "29": 99,
+                    "30": 186,
+                    "31": 80,
+                    "32": 145,
+                    "33": 61
+                }
+            },
+            "size": 34793
+        }
+    },
+    "1": {
+        "file": {
+            "fileName": "curve.jpeg",
+            "mimetype": "image/jpeg",
+            "storageName": "5d9f0a4dd42fa07521f8f4b17422359d",
+            "size": 3437
+        },
+        "metadata": {
+            "name": "Curve",
+            "description": "Curve Logo",
+            "author": "string",
+            "timestamp": 0,
+            "type": "Photo",
+            "class": "string",
+            "score": 0
+        },
+        "ipfs": {
+            "path": "Qmc7p9yi9xcN4c2AEhYzxiatbndT4KtnVd13RtifKXzijs",
+            "cid": {
+                "code": 112,
+                "version": 0,
+                "hash": {
+                    "0": 18,
+                    "1": 32,
+                    "2": 204,
+                    "3": 185,
+                    "4": 191,
+                    "5": 69,
+                    "6": 120,
+                    "7": 34,
+                    "8": 103,
+                    "9": 177,
+                    "10": 208,
+                    "11": 184,
+                    "12": 9,
+                    "13": 94,
+                    "14": 138,
+                    "15": 0,
+                    "16": 36,
+                    "17": 113,
+                    "18": 76,
+                    "19": 237,
+                    "20": 146,
+                    "21": 35,
+                    "22": 16,
+                    "23": 210,
+                    "24": 80,
+                    "25": 118,
+                    "26": 31,
+                    "27": 52,
+                    "28": 119,
+                    "29": 120,
+                    "30": 0,
+                    "31": 44,
+                    "32": 43,
+                    "33": 130
+                }
+            },
+            "size": 3448
+        }
+    },
+    "2": {
+        "file": {
+            "fileName": "avax.png",
+            "mimetype": "image/png",
+            "storageName": "dbc111ca598b192e0c5260905d3441a1",
+            "size": 3447
+        },
+        "metadata": {
+            "name": "Avax",
+            "description": "Avax Logo",
+            "author": "string",
+            "timestamp": 0,
+            "type": "Photo",
+            "class": "string",
+            "score": 0
+        },
+        "ipfs": {
+            "path": "QmeEi581B1BukSkvBbmgn6TJnwuYrdouea6t8sAqntqFMe",
+            "cid": {
+                "code": 112,
+                "version": 0,
+                "hash": {
+                    "0": 18,
+                    "1": 32,
+                    "2": 236,
+                    "3": 53,
+                    "4": 78,
+                    "5": 201,
+                    "6": 117,
+                    "7": 7,
+                    "8": 200,
+                    "9": 183,
+                    "10": 173,
+                    "11": 107,
+                    "12": 186,
+                    "13": 245,
+                    "14": 214,
+                    "15": 84,
+                    "16": 125,
+                    "17": 182,
+                    "18": 81,
+                    "19": 207,
+                    "20": 252,
+                    "21": 27,
+                    "22": 153,
+                    "23": 112,
+                    "24": 95,
+                    "25": 61,
+                    "26": 34,
+                    "27": 10,
+                    "28": 160,
+                    "29": 107,
+                    "30": 201,
+                    "31": 43,
+                    "32": 33,
+                    "33": 245
+                }
+            },
+            "size": 3458
+        }
+    },
+    "3": {
+        "file": {
+            "fileName": "Chainlink_Logo_Blue.svg.png",
+            "mimetype": "image/png",
+            "storageName": "be95d93f1bd9ed04a40f56aba34662ff",
+            "size": 62273
+        },
+        "metadata": {
+            "name": "Chainlink",
+            "description": "Chainlink Logo",
+            "author": "string",
+            "timestamp": 0,
+            "type": "Photo",
+            "class": "string",
+            "score": 0
+        },
+        "ipfs": {
+            "path": "QmWHvqLJZsX4NRT3FuDuNjmph68F3unqW9NsxFozLUz4ij",
+            "cid": {
+                "code": 112,
+                "version": 0,
+                "hash": {
+                    "0": 18,
+                    "1": 32,
+                    "2": 118,
+                    "3": 42,
+                    "4": 252,
+                    "5": 49,
+                    "6": 131,
+                    "7": 183,
+                    "8": 28,
+                    "9": 28,
+                    "10": 150,
+                    "11": 209,
+                    "12": 45,
+                    "13": 205,
+                    "14": 166,
+                    "15": 10,
+                    "16": 235,
+                    "17": 207,
+                    "18": 148,
+                    "19": 6,
+                    "20": 46,
+                    "21": 59,
+                    "22": 181,
+                    "23": 43,
+                    "24": 98,
+                    "25": 128,
+                    "26": 231,
+                    "27": 159,
+                    "28": 220,
+                    "29": 75,
+                    "30": 30,
+                    "31": 221,
+                    "32": 186,
+                    "33": 152
+                }
+            },
+            "size": 62287
+        }
+    },
+    "4": {
+        "file": {
+            "fileName": "traderjoe.jpeg",
+            "mimetype": "image/jpeg",
+            "storageName": "570e2267fa2d7efdc1db35d6f04f961d",
+            "size": 5003
+        },
+        "metadata": {
+            "name": "TraderJoe",
+            "description": "TraderJoe Logo",
+            "author": "string",
+            "timestamp": 0,
+            "type": "Photo",
+            "class": "string",
+            "score": 0
+        },
+        "ipfs": {
+            "path": "QmRUvVzAcaUZfG7fywHjL9pJ2inBEvNnrbQwM1x4NN8kyb",
+            "cid": {
+                "code": 112,
+                "version": 0,
+                "hash": {
+                    "0": 18,
+                    "1": 32,
+                    "2": 46,
+                    "3": 177,
+                    "4": 143,
+                    "5": 238,
+                    "6": 31,
+                    "7": 145,
+                    "8": 197,
+                    "9": 149,
+                    "10": 184,
+                    "11": 248,
+                    "12": 35,
+                    "13": 20,
+                    "14": 39,
+                    "15": 178,
+                    "16": 162,
+                    "17": 38,
+                    "18": 240,
+                    "19": 173,
+                    "20": 254,
+                    "21": 133,
+                    "22": 129,
+                    "23": 50,
+                    "24": 63,
+                    "25": 46,
+                    "26": 124,
+                    "27": 87,
+                    "28": 63,
+                    "29": 58,
+                    "30": 62,
+                    "31": 2,
+                    "32": 253,
+                    "33": 166
+                }
+            },
+            "size": 5014
+        }
+    },
+    "5": {
+        "file": {
+            "fileName": "uniswap.png",
+            "mimetype": "image/png",
+            "storageName": "a31929d81b1684d926bc4a804c1deaae",
+            "size": 4224
+        },
+        "metadata": {
+            "name": "Uniswap",
+            "description": "Uniswap Logo",
+            "author": "string",
+            "timestamp": 0,
+            "type": "Photo",
+            "class": "string",
+            "score": 0
+        },
+        "ipfs": {
+            "path": "QmbjNJBxGrZQxSYVre2nDuRgKUTdzYMgsaafabfE9tZxcs",
+            "cid": {
+                "code": 112,
+                "version": 0,
+                "hash": {
+                    "0": 18,
+                    "1": 32,
+                    "2": 198,
+                    "3": 249,
+                    "4": 187,
+                    "5": 43,
+                    "6": 165,
+                    "7": 191,
+                    "8": 133,
+                    "9": 222,
+                    "10": 228,
+                    "11": 230,
+                    "12": 30,
+                    "13": 115,
+                    "14": 206,
+                    "15": 223,
+                    "16": 210,
+                    "17": 140,
+                    "18": 33,
+                    "19": 24,
+                    "20": 29,
+                    "21": 31,
+                    "22": 16,
+                    "23": 119,
+                    "24": 170,
+                    "25": 131,
+                    "26": 117,
+                    "27": 94,
+                    "28": 63,
+                    "29": 162,
+                    "30": 127,
+                    "31": 244,
+                    "32": 51,
+                    "33": 76
+                }
+            },
+            "size": 4235
+        }
+    },
+    "6": {
+        "file": {
+            "fileName": "1200px-Ethereum-icon-purple.svg.png",
+            "mimetype": "image/png",
+            "storageName": "ec3e319813fd309abd2372e48793d9d8",
+            "size": 45532
+        },
+        "metadata": {
+            "name": "ETh",
+            "description": "Eth Logo",
+            "author": "string",
+            "timestamp": 0,
+            "type": "Photo",
+            "class": "string",
+            "score": 0
+        },
+        "ipfs": {
+            "path": "QmdyaWz9KGcGPrbBgUTYysqTL9XienaiHgh8Bou65hrFvP",
+            "cid": {
+                "code": 112,
+                "version": 0,
+                "hash": {
+                    "0": 18,
+                    "1": 32,
+                    "2": 232,
+                    "3": 85,
+                    "4": 13,
+                    "5": 225,
+                    "6": 124,
+                    "7": 129,
+                    "8": 16,
+                    "9": 147,
+                    "10": 38,
+                    "11": 221,
+                    "12": 236,
+                    "13": 200,
+                    "14": 183,
+                    "15": 247,
+                    "16": 229,
+                    "17": 71,
+                    "18": 109,
+                    "19": 248,
+                    "20": 62,
+                    "21": 80,
+                    "22": 54,
+                    "23": 83,
+                    "24": 83,
+                    "25": 212,
+                    "26": 248,
+                    "27": 183,
+                    "28": 25,
+                    "29": 86,
+                    "30": 79,
+                    "31": 176,
+                    "32": 133,
+                    "33": 248
+                }
+            },
+            "size": 45546
+        }
+    },
+    "7": {
+        "file": {
+            "fileName": "Bitcoin-Logo.png",
+            "mimetype": "image/png",
+            "storageName": "096632d55221843eaf0eee03721f9861",
+            "size": 26145
+        },
+        "metadata": {
+            "name": "COPE",
+            "description": "COPE Logo",
+            "author": "string",
+            "timestamp": 0,
+            "type": "Photo",
+            "class": "string",
+            "score": 0
+        },
+        "ipfs": {
+            "path": "Qmc1CMmpU43m9SMzFm5oi4dPbm6Er6NYM8SMv2ZKXB7X9G",
+            "cid": {
+                "code": 112,
+                "version": 0,
+                "hash": {
+                    "0": 18,
+                    "1": 32,
+                    "2": 203,
+                    "3": 7,
+                    "4": 201,
+                    "5": 115,
+                    "6": 6,
+                    "7": 33,
+                    "8": 166,
+                    "9": 172,
+                    "10": 47,
+                    "11": 123,
+                    "12": 6,
+                    "13": 163,
+                    "14": 233,
+                    "15": 168,
+                    "16": 238,
+                    "17": 143,
+                    "18": 16,
+                    "19": 96,
+                    "20": 67,
+                    "21": 220,
+                    "22": 77,
+                    "23": 184,
+                    "24": 62,
+                    "25": 164,
+                    "26": 46,
+                    "27": 25,
+                    "28": 127,
+                    "29": 195,
+                    "30": 113,
+                    "31": 217,
+                    "32": 63,
+                    "33": 231
+                }
+            },
+            "size": 26159
+        }
+    },
+    "8": {
+        "file": {
+            "fileName": "COPE.png",
+            "mimetype": "image/png",
+            "storageName": "8bdb8a9ee92bde94cea148f94f8bec46",
+            "size": 4881
+        },
+        "ipfs": {
+            "path": "Qmc8AZ5QxobWBq31qKBg6pLJhoromEYGq7EaVwuBAvqnT2",
+            "cid": {
+                "code": 112,
+                "version": 0,
+                "hash": {
+                    "0": 18,
+                    "1": 32,
+                    "2": 204,
+                    "3": 208,
+                    "4": 207,
+                    "5": 192,
+                    "6": 33,
+                    "7": 8,
+                    "8": 36,
+                    "9": 255,
+                    "10": 39,
+                    "11": 141,
+                    "12": 113,
+                    "13": 26,
+                    "14": 234,
+                    "15": 77,
+                    "16": 47,
+                    "17": 144,
+                    "18": 113,
+                    "19": 206,
+                    "20": 103,
+                    "21": 179,
+                    "22": 57,
+                    "23": 83,
+                    "24": 227,
+                    "25": 21,
+                    "26": 195,
+                    "27": 228,
+                    "28": 160,
+                    "29": 123,
+                    "30": 144,
+                    "31": 23,
+                    "32": 46,
+                    "33": 41
+                }
+            },
+            "size": 4892
+        }
+    },
+    "9": {
+        "file": {
+            "fileName": "download.png",
+            "mimetype": "image/png",
+            "storageName": "4867d6a97ebbe0c2a9ab2eae1627428b",
+            "size": 4686
+        },
+        "metadata": {
+            "name": "Luna",
+            "description": "Luna Logo",
+            "author": "string",
+            "timestamp": 0,
+            "type": "Photo",
+            "class": "string",
+            "score": 0
+        },
+        "ipfs": {
+            "path": "QmZrxwpu47KTTxoxpQs4uCm732rMjznxsbLpJ7kq15YbwH",
+            "cid": {
+                "code": 112,
+                "version": 0,
+                "hash": {
+                    "0": 18,
+                    "1": 32,
+                    "2": 171,
+                    "3": 52,
+                    "4": 153,
+                    "5": 192,
+                    "6": 182,
+                    "7": 42,
+                    "8": 254,
+                    "9": 166,
+                    "10": 172,
+                    "11": 50,
+                    "12": 245,
+                    "13": 154,
+                    "14": 52,
+                    "15": 127,
+                    "16": 154,
+                    "17": 24,
+                    "18": 131,
+                    "19": 92,
+                    "20": 180,
+                    "21": 145,
+                    "22": 201,
+                    "23": 186,
+                    "24": 142,
+                    "25": 246,
+                    "26": 128,
+                    "27": 3,
+                    "28": 51,
+                    "29": 214,
+                    "30": 211,
+                    "31": 150,
+                    "32": 45,
+                    "33": 172
+                }
+            },
+            "size": 4697
+        }
+    }
+}
